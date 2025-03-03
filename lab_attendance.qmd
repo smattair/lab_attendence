@@ -6,3 +6,9 @@ editor: visual
 ---
 
 # In this class, I learned how to create a website using R Studio and Github 
+
+```{r, echo=FALSE, out.width="50%"}
+knitr::include_graphics("img/pretty.JPG")
+
+```
+
